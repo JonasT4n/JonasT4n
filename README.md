@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Jonas Tan, Nice to meet Y'all!
---------------------------------------------------
+
 [![JonasT4n's github stats](https://github-readme-stats.vercel.app/api?username=JonasT4n)](https://github.com/JonasT4n/github-readme-stats)
+--------------------------------------------------
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasT4n&layout=compact)](https://github.com/JonasT4n/github-readme-stats)
 
 - 🔭 I’m currently working unofficially as Freelancer
 - 🌱 I’m currently learning OpenGL and Unreal 4
