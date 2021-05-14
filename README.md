@@ -9,6 +9,6 @@
 - 👯 If I’m looking for collaboration, I'm looking for collaboration on Game Development (Video Game, Game Tools, Game Engine)
 - 🤔 I’m looking for help with Game Networking!!!
 - 💬 Ask me anything about programming and codes especially in Game Programming
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonas-tan-0445a6192/) / Discord -> `JoeNTnT#7405` (Fast Response)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonas-tan-0445a6192/) / Discord -> `JoenTnT#7405` (Fast Response)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Yes!
